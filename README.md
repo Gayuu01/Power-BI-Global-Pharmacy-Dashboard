@@ -1,4 +1,4 @@
-# 💊 Pharmaceutical Sales Analysis – Power BI Dashboard
+# 💊 Global Pharmaceutical Sales Analysis (2020–2025) – Power BI Dashboard
 
 ## 📊 Project Overview
 This project presents an interactive Power BI dashboard for **Global Pharmaceutical Sales Analysis (2020–2025)**.  
